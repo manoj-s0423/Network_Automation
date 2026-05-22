@@ -14,3 +14,4 @@ if [ $Status -eq 200 ]; then
 else
     echo "Host $Host is not healthy. Status code: $Status"
 fi
+
